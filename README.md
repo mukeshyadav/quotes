@@ -1,8 +1,8 @@
 # quotes
-Quotes of the Day
+Quotes of the Day <br />
 An API which gives random quotes
 
-#Technologies
+# Technologies
 NodeJS
 Express
 GraphQl
